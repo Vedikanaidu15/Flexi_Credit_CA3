@@ -1,0 +1,192 @@
+{
+  "learner_profile": {
+    "subject": "Computer Networks",
+    "topic": "IPv4 and Subnetting",
+    "current_level": "Beginner",
+    "target_level": "Beginner",
+    "learning_goal": "Exam Preparation",
+    "preferred_resources": [
+      "Video",
+      "Notes"
+    ],
+    "available_time_minutes": 120,
+    "available_time_formatted": "2h 0m",
+    "difficulty_feedback": "Appropriate"
+  },
+  "candidate_resources_found": 11,
+  "top_recommendations": [
+    {
+      "id": "2",
+      "title": "Subnetting Mastery: Fast Subnetting Cheat Sheet & Notes",
+      "subject": "Computer Networks",
+      "topic": "IPv4 and Subnetting",
+      "resource_type": "Notes",
+      "difficulty_level": "Beginner",
+      "learning_goal": "Exam Preparation",
+      "duration_minutes": 20,
+      "url": "https://www.geeksforgeeks.org/introduction-to-subnetting/",
+      "source": "GeeksforGeeks",
+      "description": "Quick revision notes covering FLSM VLSM and standard subnet masks with exam formulas.",
+      "retrieval_source": "Local Curated Dataset (Fallback)",
+      "score": 100.0,
+      "scoring_breakdown": {
+        "topic_score": 100.0,
+        "level_score": 100.0,
+        "goal_score": 100.0,
+        "format_score": 100.0,
+        "time_score": 100.0,
+        "total_score": 100.0
+      },
+      "why_recommended": "Calibrated for your Beginner level, matches preferred 'Notes' format, high-yield focus for exam revision. Fits easily into your study session (20m).",
+      "reasoning_source": "Algorithmic Rule Engine (Fallback)"
+    },
+    {
+      "id": "5",
+      "title": "GATE Exam Preparation: IPv4 Subnetting Previous Year Questions",
+      "subject": "Computer Networks",
+      "topic": "IPv4 and Subnetting",
+      "resource_type": "Video",
+      "difficulty_level": "Intermediate",
+      "learning_goal": "Exam Preparation",
+      "duration_minutes": 45,
+      "url": "https://www.youtube.com/watch?v=gate_subnetting_solutions",
+      "source": "Gate Smashers",
+      "description": "Step by step solution walk-throughs for previous year university and competitive exam questions.",
+      "retrieval_source": "Local Curated Dataset (Fallback)",
+      "score": 93.0,
+      "scoring_breakdown": {
+        "topic_score": 100.0,
+        "level_score": 65.0,
+        "goal_score": 100.0,
+        "format_score": 100.0,
+        "time_score": 100.0,
+        "total_score": 93.0
+      },
+      "why_recommended": "Provides structured progression to Intermediate concepts, matches preferred 'Video' format, high-yield focus for exam revision. Fits easily into your study session (45m).",
+      "reasoning_source": "Algorithmic Rule Engine (Fallback)"
+    },
+    {
+      "id": "1",
+      "title": "IPv4 Addressing & Subnetting Explained for Beginners",
+      "subject": "Computer Networks",
+      "topic": "IPv4 and Subnetting",
+      "resource_type": "Video",
+      "difficulty_level": "Beginner",
+      "learning_goal": "Concept Understanding",
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=s_Ntt6eTn94",
+      "source": "NetworkChuck",
+      "description": "Clear visual introduction to IP classes CIDR notation and subnet calculation step by step.",
+      "retrieval_source": "Local Curated Dataset (Fallback)",
+      "score": 92.0,
+      "scoring_breakdown": {
+        "topic_score": 100.0,
+        "level_score": 100.0,
+        "goal_score": 60.0,
+        "format_score": 100.0,
+        "time_score": 100.0,
+        "total_score": 92.0
+      },
+      "why_recommended": "Calibrated for your Beginner level, matches preferred 'Video' format, high-yield focus for exam revision. Fits easily into your study session (25m).",
+      "reasoning_source": "Algorithmic Rule Engine (Fallback)"
+    },
+    {
+      "id": "6",
+      "title": "Hands-on Packet Tracer Lab: Subnetting a Class C Network",
+      "subject": "Computer Networks",
+      "topic": "IPv4 and Subnetting",
+      "resource_type": "Practice",
+      "difficulty_level": "Beginner",
+      "learning_goal": "Practice",
+      "duration_minutes": 40,
+      "url": "https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html",
+      "source": "Cisco Networking Academy",
+      "description": "Practical guided simulation lab configuring subnets routers and host IP assignments.",
+      "retrieval_source": "Local Curated Dataset (Fallback)",
+      "score": 88.2,
+      "scoring_breakdown": {
+        "topic_score": 100.0,
+        "level_score": 100.0,
+        "goal_score": 90.0,
+        "format_score": 35.0,
+        "time_score": 100.0,
+        "total_score": 88.2
+      },
+      "why_recommended": "Calibrated for your Beginner level, high-yield focus for exam revision. Fits easily into your study session (40m).",
+      "reasoning_source": "Algorithmic Rule Engine (Fallback)"
+    },
+    {
+      "id": "3",
+      "title": "IPv4 Subnet Calculation Practice Problems & Solutions",
+      "subject": "Computer Networks",
+      "topic": "IPv4 and Subnetting",
+      "resource_type": "Practice",
+      "difficulty_level": "Intermediate",
+      "learning_goal": "Practice",
+      "duration_minutes": 35,
+      "url": "https://www.sanfoundry.com/computer-networks-mcqs-ipv4-addressing/",
+      "source": "Sanfoundry",
+      "description": "Curated MCQs and numerical problem set on finding network ID broadcast ID and usable hosts.",
+      "retrieval_source": "Local Curated Dataset (Fallback)",
+      "score": 81.2,
+      "scoring_breakdown": {
+        "topic_score": 100.0,
+        "level_score": 65.0,
+        "goal_score": 90.0,
+        "format_score": 35.0,
+        "time_score": 100.0,
+        "total_score": 81.2
+      },
+      "why_recommended": "Provides structured progression to Intermediate concepts, high-yield focus for exam revision. Fits easily into your study session (35m).",
+      "reasoning_source": "Algorithmic Rule Engine (Fallback)"
+    }
+  ],
+  "study_plan": {
+    "steps": [
+      {
+        "step_number": 1,
+        "phase": "Visual Foundation",
+        "title": "GATE Exam Preparation: IPv4 Subnetting Previous Year Questions",
+        "duration_minutes": 45,
+        "resource_type": "Video",
+        "source": "Gate Smashers",
+        "url": "https://www.youtube.com/watch?v=gate_subnetting_solutions",
+        "action_item": "Complete video on GATE Exam Preparation: IPv4 Subnetting Previous Year Questions (45 mins)"
+      },
+      {
+        "step_number": 2,
+        "phase": "Visual Foundation",
+        "title": "IPv4 Addressing & Subnetting Explained for Beginners",
+        "duration_minutes": 25,
+        "resource_type": "Video",
+        "source": "NetworkChuck",
+        "url": "https://www.youtube.com/watch?v=s_Ntt6eTn94",
+        "action_item": "Complete video on IPv4 Addressing & Subnetting Explained for Beginners (25 mins)"
+      },
+      {
+        "step_number": 3,
+        "phase": "Core Theory & Key Formulas",
+        "title": "Subnetting Mastery: Fast Subnetting Cheat Sheet & Notes",
+        "duration_minutes": 20,
+        "resource_type": "Notes",
+        "source": "GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/introduction-to-subnetting/",
+        "action_item": "Complete notes on Subnetting Mastery: Fast Subnetting Cheat Sheet & Notes (20 mins)"
+      },
+      {
+        "step_number": 4,
+        "phase": "Hands-on Problem Solving",
+        "title": "Hands-on Packet Tracer Lab: Subnetting a Class C Network",
+        "duration_minutes": 30,
+        "resource_type": "Practice",
+        "source": "Cisco Networking Academy",
+        "url": "https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html",
+        "action_item": "Complete practice on Hands-on Packet Tracer Lab: Subnetting a Class C Network (30 mins)"
+      }
+    ],
+    "total_scheduled_minutes": 120,
+    "available_minutes": 120,
+    "strategy_tip": "[Study Strategy] Focus on memorizing subnet formulas and powers of 2 first, then practice active recall with timed problems during the final 30 minutes.",
+    "is_within_budget": true
+  }
+}
